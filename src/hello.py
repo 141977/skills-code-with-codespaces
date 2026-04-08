@@ -1,1 +1,1 @@
-print("GitHub Codespaces, automação direto na nuvem!")
+print("GitHub Codespaces, curso de automação direto na nuvem!")
